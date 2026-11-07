@@ -1,0 +1,18 @@
+{
+  "appId": "com.mia.musicisall",
+  "appName": "Music is all",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  },
+  "plugins": {
+    "Filesystem": {}
+  }
+}
